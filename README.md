@@ -1,4 +1,3 @@
-# Visualg-2.0-
 Primeiro exercício de Algoritmo
 
 Este repositório contém meu primeiro exercício de lógica de programação desenvolvido na disciplina Algoritmo II.
